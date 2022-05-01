@@ -1,6 +1,6 @@
 let navbar= () =>{
     return `<div id="search_bar">
-  <input type="text" id="query" />
+  <input type="text" placeholder="Search Image" id="query"  />
 </div>
 <div id="categories">
   <h3 id="Nature">Nature</h3>
